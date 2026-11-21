@@ -1,0 +1,6 @@
+{
+  "name": "SAMID® — Dimas Sakti Satarsyah Portfolio",
+  "description": "Obsidian Alabaster Editorial Terminal portfolio for Dimas Sakti Satarsyah (Samid), Informatics Engineering undergraduate at Politeknik Negeri Jakarta specializing in Full-Stack, DevOps, and AI systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
