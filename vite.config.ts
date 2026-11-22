@@ -11,7 +11,7 @@ export default defineConfig(() => {
   return {
     base: '/',
     build: {
-      outDir: 'dist',
+      outDir: 'build',
       emptyOutDir: true,
     },
     plugins: [
